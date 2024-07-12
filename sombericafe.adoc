@@ -1,12 +1,14 @@
 :imagesdir: ./
-= _Somberi Café_
+= _Sombéri Café_
 
-image::cafe.png[align="center"]
+image::cafe.jpeg[align="center"]
 
 [.text-center]
 ====
-Welcome to _Somberi Café_ - + 
-The only one of its kind, + 
-Where denizens of the Milky Way, +
-Come to empty their mind !
+In the Heart of the Milky Way, +
+Lies a very special place, +
+Where folks gather every day, +
+To see their Original Face.
+
+Welcome to _Sombéri Café_ !
 ====
