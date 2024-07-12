@@ -1,3 +1,12 @@
+:imagesdir: ./
 = _Somberi Café_
 
-Welcome to _Somberi Café_, a virtual haven for the truly lazy !
+image::cafe.png[align="center"]
+
+[.text-center]
+====
+Welcome to _Somberi Café_ - + 
+The only one of its kind, + 
+Where denizens of the Milky Way, +
+Come to empty their mind !
+====
