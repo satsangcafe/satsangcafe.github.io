@@ -1,7 +1,9 @@
 :imagesdir: ./
 = _Sombéri Café_
 
-image::cafe.jpeg[align="center"]
+== _Welcome !_
+
+image::cafe.jpg[align="center",75%]
 
 [.text-center]
 ====
@@ -10,5 +12,20 @@ Lies a very special place, +
 Where folks gather every day, +
 To see their Original Face.
 
-Welcome to _Sombéri Café_ !
 ====
+[.text-center]
+Welcome to _Sombéri Café_ !
+
+== _Essays_
+
+https://sombericafe.github.io/banaras/[_A Somberi Pandaram's Guide to Varanasi_]
+
+== _Erratica_
+
+https://sombericafe.github.io/erratica/shining.html[_Shining here within_]
+
+https://sombericafe.github.io/erratica/cake.html[_Carrot cake_]
+
+== _Get in touch_
+
+mailto:aspandaram@outlook.com[_A S Pandaram_]
