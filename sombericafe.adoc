@@ -8,9 +8,9 @@ image::cafe.jpg[align="center",75%]
 [.text-center]
 ====
 In the Heart of the Milky Way, +
-Lies a very special place, +
-Where folks gather every day, +
-To see their Original Face.
+Lies a place of mystic Grace, +
+Where folks gather night and day, +
+To glimpse their Original Face.
 
 ====
 [.text-center]
@@ -26,6 +26,8 @@ https://sombericafe.github.io/erratica/shining.html[_Shining here within_]
 
 https://sombericafe.github.io/erratica/cake.html[_Carrot cake_]
 
+https://sombericafe.github.io/erratica/satisfaction.html[_Satisfaction_]
+
 == _Get in touch_
 
-mailto:aspandaram@outlook.com[_A S Pandaram_]
+mailto:sombericafe@outlook.com[_sombericafe@outlook.com_]
