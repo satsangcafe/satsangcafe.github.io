@@ -1,0 +1,32 @@
+:imagesdir: ./
+= _Satsang Café_
+
+== _Welcome !_
+
+image::cafe.jpg[align="left",60%]
+
+[.text-left]
+====
+In the Heart of the Milky Way, +
+Lies a place of mystic Grace, +
+Where folks gather night and day, +
+To glimpse their Original Face.
+====
+[.text-left]
+Welcome to _Satsang Café_ !
+
+== _Essays_
+
+https://satsangcafe.github.io/banaras/[_A Somberi Pandaram's Guide to Varanasi_]
+
+== _Erratica_
+
+https://satsangcafe.github.io/erratica/shining.html[_Shining here within_]
+
+https://satsangcafe.github.io/erratica/cake.html[_Carrot cake_]
+
+https://satsangcafe.github.io/erratica/satisfaction.html[_Satisfaction_]
+
+== _Get in touch_
+
+mailto:sombericafe@outlook.com[_sombericafe@outlook.com_]
